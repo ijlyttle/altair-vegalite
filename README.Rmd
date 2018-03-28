@@ -1,0 +1,17 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+# altair-vegalite
+
+The goal of altair-vegalite is to document my experiences using [reticulate](https://rstudio.github.io/reticulate/index.html) with [altair](https://altair-viz.github.io/) so that we can have an up-to-date interface to [vegalite](https://vega.github.io/vega-lite/)
+
+
